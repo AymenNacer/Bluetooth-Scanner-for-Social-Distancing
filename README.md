@@ -6,5 +6,6 @@ to run it on old smarthpones make sure to enable location permission
 
 Sample Run: i make it alert if it catches more than 2 devices only for testing
 
-![ezgif-1-5bee5ccf8d9d1111111](https://user-images.githubusercontent.com/67188835/87252836-eda29500-c47e-11ea-8efe-8210c6d6dc51.gif)
+
+![giffff](https://user-images.githubusercontent.com/67188835/87306814-3e6aca00-c521-11ea-96e2-14ab088a4093.gif)
 
